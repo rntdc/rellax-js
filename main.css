@@ -25,11 +25,12 @@ html, body {
 
 .text {
     position: absolute;
-    width: 100%;
+    width: 94%;
     height: 100vh;
     top: 32%;
     background: url(img/text.png) no-repeat 50% 50%;
     background-size: cover;
+    mix-blend-mode: overlay;
 }
 
 .clouds {
